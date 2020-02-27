@@ -18,11 +18,9 @@
 
 **立一个flag，每天至少完成1课。**
 
+`console.log(加油)`
 
 
-```
-console.log("加油");
-```
 
 ```
 public class Hi{
